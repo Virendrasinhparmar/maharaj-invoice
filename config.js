@@ -6,7 +6,7 @@
 window.MAHARAJ = {
   // Paste your Google Apps Script "Web app" URL here after setup (see README → Navratri orders).
   // While it is empty, the order form still works by sending the order on WhatsApp.
-  API_URL: '',
+  API_URL: 'https://script.google.com/macros/s/AKfycbxIpRHrv4KgHfT5FwPk73aNd4hYPi14GcPtHI0bSm-fE3XRj3S9tksd7FnWtQLzZbFG/exec',
 
   businessName: 'MAHARAJ FOODS',
   tagline: 'Maharaj Samosa & Chawana House',
